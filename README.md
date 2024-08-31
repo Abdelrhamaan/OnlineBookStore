@@ -48,7 +48,7 @@ A simple project to upload books, read them, and review them.
 1. clone repository
 
    ```bash
-       https://github.com/Abdelrhamaan/OnlineBookStore.git
+       git clone https://github.com/Abdelrhamaan/OnlineBookStore.git
    ```
 
 2. Install node modules
